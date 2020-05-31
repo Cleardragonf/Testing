@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2498112-800d-4786-8df8-1b5f8c114927" name="Default Changelist" comment="• Testing">
-      <change beforePath="$PROJECT_DIR$/Testing.HTML" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.HTML" afterDir="false" />
-    </list>
+    <list default="true" id="b2498112-800d-4786-8df8-1b5f8c114927" name="Default Changelist" comment="• Testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,19 +28,22 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ch1ChqUTMGKHyru77FoleoEAuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +67,28 @@
       <option name="project" value="LOCAL" />
       <updated>1590966086150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="• Testing">
+      <created>1590966140824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590966140824</updated>
+    </task>
+    <task id="LOCAL-00004" summary="• Testing">
+      <created>1590966361103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590966361103</updated>
+    </task>
+    <task id="LOCAL-00005" summary="• Testing">
+      <created>1590966430627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590966430627</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,9 +107,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="• Testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2472" y="240" key="Vcs.Push.Dialog.v2" timestamp="1590966018444">
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1590966500588">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="240" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590966018444" />
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590966500588" />
+    <state x="2104" y="86" key="MergeDialog" timestamp="1590966470976">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2104" y="86" key="MergeDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590966470976" />
+    <state x="2768" y="388" key="MultipleFileMergeDialog" timestamp="1590966470984">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2768" y="388" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590966470984" />
+    <state x="2472" y="240" key="Vcs.Push.Dialog.v2" timestamp="1590966364985">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="240" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590966364985" />
   </component>
 </project>
